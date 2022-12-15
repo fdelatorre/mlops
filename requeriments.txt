@@ -1,0 +1,7 @@
+pip install scikit-learn
+pip install pandas
+pip install numpy
+pip install -U imbalanced-learn
+pip install pickle
+pip install seaborn
+pip install -U matplotlib
